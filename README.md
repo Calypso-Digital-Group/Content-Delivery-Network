@@ -9,7 +9,7 @@ This repo is used as Content-Delivery-Network hosted via GitHub powered by Cloud
 To use this CDN for your projects make sure that your favorite libraries/images/scripts/stylesheets are already on this CDN, if not then you might, can get in contact with us, and we will check if we can add your desired files.
 
 ```bash
-https://cdn.otherpayments.net/users/<username>/<path-to-your-files>/<your-file>.<extension>
+https://cdn.calypso.gg/users/<username>/<path-to-your-files>/<your-file>.<extension>
 ```
 For security purpose we only allow the following files on our CDN: .js .css .html .sql .md .png .jpg .jpeg .psd .doc .docx .pdf .txt .xls .xlsx .ppt .pptx .cpp .c .csv .cxx .dll .class .font .gif .h .ico .ini .java .jar .jnl .mk .src .ttf .zip .xml .sh 
 
